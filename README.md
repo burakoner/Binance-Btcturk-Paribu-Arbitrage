@@ -14,4 +14,7 @@ Web Application Vue SPA olduğundan IIS üzerine 000/IIS/urlrewrite2.exe modül�
 
 # Ekran Görüntüleri
 
-![Screenshot-01](/assets/images/tux.png)
+![Screenshot-01](https://raw.githubusercontent.com/burakoner/Binance-Btcturk-Paribu-Arbitrage/main/000/Screenshot-01.jpeg)
+![Screenshot-02](https://raw.githubusercontent.com/burakoner/Binance-Btcturk-Paribu-Arbitrage/main/000/Screenshot-02.jpeg)
+![Screenshot-03](https://raw.githubusercontent.com/burakoner/Binance-Btcturk-Paribu-Arbitrage/main/000/Screenshot-03.jpeg)
+![Screenshot-04](https://raw.githubusercontent.com/burakoner/Binance-Btcturk-Paribu-Arbitrage/main/000/Screenshot-04.jpeg)
