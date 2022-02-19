@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arbitrage.CoreApi", "Arbitrage.CoreApi\Arbitrage.CoreApi.csproj", "{1575A694-E41A-46D3-B0B7-F33B8CB07566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramListener", "TelegramListener\TelegramListener.csproj", "{76D53797-8F0E-4721-BA4E-88498F0D6062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1575A694-E41A-46D3-B0B7-F33B8CB07566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1575A694-E41A-46D3-B0B7-F33B8CB07566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1575A694-E41A-46D3-B0B7-F33B8CB07566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1575A694-E41A-46D3-B0B7-F33B8CB07566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D53797-8F0E-4721-BA4E-88498F0D6062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D53797-8F0E-4721-BA4E-88498F0D6062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D53797-8F0E-4721-BA4E-88498F0D6062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D53797-8F0E-4721-BA4E-88498F0D6062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9CA6EFB-7090-47F9-90F9-5A89C221B04B}
+	EndGlobalSection
+EndGlobal
